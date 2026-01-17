@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Inductor_SMD_power")(type "KiCad")(uri "${KIPRJMOD}/library/Inductor_SMD_power.pretty")(options "")(descr ""))
+)
